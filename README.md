@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 #   Arduino Water Level Timer Tracker
 
-![Device]([https://github.com/your-username/your-repo/blob/main/images/device_image.jpg](https://github.com/kevinoli/arduino-water-level/blob/main/project-photo.png))
+![Device](https://github.com/kevinoli/arduino-water-level/blob/main/project-photo.png)
 
 The purpose of this project was to create a device that can track liquid level, status, and presence in a cup. With the data collected by the various measurements, the device would then calculate the time taken to drink a full cup of liquid (eg. water, soda, or beer). Using an Arduino microcontroller and other various electronic components, the device would measure the presence of liquid in a cup and determine if a user is drinking from the cup and time how long it may take them to drink all the liquid from the cup.
 
