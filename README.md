@@ -7,19 +7,6 @@ The purpose of this project was to create a device that can track liquid level, 
 * The device utilized a self-made capacitance sensor, an RGB LED to indicate the different states of the cup, and a timer to track the duration of drinking. A screen was added to display the time taken to drink, and a calibration mode and countdown button were included for better accuracy and game experience. 
 * The project provided the opportunity to learn about electrical engineering, including designing a sensor with limited resources, using an OLED screen, and understanding raw data from voltage readings.
 
-## Table of Contents
-- [Libraries Used](#libraries-used)
-- [Pin Declaration](#pin-declaration)
-- [Settings](#settings)
-- [Setup Function](#setup-function)
-- [Variable Declarations](#variable-declarations)
-- [Main Loop](#main-loop)
-- [RGB Color Function](#rgb-color-function)
-- [Countdown Function](#countdown-function)
-- [Display Text Function](#display-text-function)
-- [Draw Star Function](#draw-star-function)
-- [Rainbow Function](#rainbow-function)
-
 ## Libraries Used
 - [RBD_Capacitance](link-to-library)
 - [RBD_Threshold](link-to-library)
